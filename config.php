@@ -4,7 +4,7 @@
   | 
   | @package   : pos-kasir-php
   | @file	   : config.php ( untuk mengatur koneksi php ke database mysql )
-  | @author    : fauzan1892 / Fauzan Falah
+  | @author    : PIKRI1892 / PIKRI APANDI HUSNI
   | @copyright : Copyright (c) 2017-2021 Codekop.com (https://www.codekop.com)
   | @blog      : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
   |

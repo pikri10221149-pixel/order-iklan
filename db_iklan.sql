@@ -116,7 +116,7 @@ CREATE TABLE `member` (
 --
 
 INSERT INTO `member` (`id_member`, `nm_member`, `alamat_member`, `telepon`, `email`, `gambar`, `NIK`) VALUES
-(1, 'Fauzan Falah', 'uj harapan', '081234567890', 'example@gmail.com', '1727606793Logo Radar Tasik id putih inspirasi untuk semua (1).png', '12314121');
+(1, 'PIKRI APANDI HUSNI', 'CIHIDENG', '081234567890', 'example@gmail.com', '1727606793Logo Radar Tasik id putih inspirasi untuk semua (1).png', '12314121');
 
 -- --------------------------------------------------------
 
@@ -181,7 +181,7 @@ CREATE TABLE `toko` (
 --
 
 INSERT INTO `toko` (`id_toko`, `nama_toko`, `alamat_toko`, `tlp`, `nama_pemilik`) VALUES
-(1, 'Aplikasi Order Iklan', 'Radar, Tasikmalaya', '081234567890', 'Fauzan Falah');
+(1, 'Aplikasi Order Iklan', 'Radar, Tasikmalaya', '081234567890', 'PIKRI APANDI HUSNI');
 
 --
 -- Indexes for dumped tables
